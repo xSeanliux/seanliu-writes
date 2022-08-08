@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://seanliu-writes.pages.dev"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "Seanliu Writes"
@@ -53,7 +53,7 @@ disqusShortname = "yourdiscussshortname"
     pinterest_verification = ""
     baidu_verification = ""
 
-    avatar = "/images/me/avatar.jpeg" #comment it to use gravatar
+    avatar = "/images/me/piggy_avatar.jpeg" #comment it to use gravatar
     socialShare = true
 
     description = "" # site description
