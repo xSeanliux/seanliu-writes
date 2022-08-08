@@ -1,7 +1,7 @@
 baseURL = "https://example.com"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "KeepIt"
+title = "Seanliu Writes"
 theme = "KeepIt"
 
 paginate = 12
@@ -40,8 +40,8 @@ disqusShortname = "yourdiscussshortname"
     weight = 4
 
 [params]
-    since = 2012
-    author = "Fastbyte01"               # Author's name
+    since = 2022
+    author = "Seanliu's Blog"               # Author's name
     subtitle = "A Hugo theme"       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
