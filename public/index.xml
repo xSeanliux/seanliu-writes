@@ -1,0 +1,32 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seanliu Writes on Seanliu Writes</title>
+    <link>https://seanliu-writes.pages.dev/</link>
+    <description>Recent content in Seanliu Writes on Seanliu Writes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 08 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://seanliu-writes.pages.dev/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>https://seanliu-writes.pages.dev/about/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://seanliu-writes.pages.dev/about/</guid>
+      <description>&lt;p&gt;Hello! I&amp;rsquo;m Sean Liu. Nice to meet you! Here is my &lt;a href=&#34;https://drive.google.com/file/d/1PSMpaCOkWWnmv25hVMpAYeLKHEZW1_mN/view?usp=sharing&#34;&gt;CV&lt;/a&gt;. I&amp;rsquo;ll be updating this page with a more complete introduction soon - please stay tuned! I write in both Chinese and English.&lt;/p&gt;
+&lt;p&gt;哈嘍！我是劉至軒 —— 自我介紹因為還沒有寫所以請先參考我的&lt;a href=&#34;https://drive.google.com/file/d/1PSMpaCOkWWnmv25hVMpAYeLKHEZW1_mN/view?usp=sharing&#34;&gt;CV&lt;/a&gt;。希望之後會將這個 About 頁面補起來，敬請期待！&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://seanliu-writes.pages.dev/posts/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://seanliu-writes.pages.dev/posts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
