@@ -1,5 +1,6 @@
 ---
 title: "San Francisco Day 2"
+author: "Sean Liu"
 date: 2022-08-12T03:13:37-07:00
 draft: false
 ---
