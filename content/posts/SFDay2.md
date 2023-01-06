@@ -1,7 +1,7 @@
 ---
 title: "San Francisco Day 2"
 date: 2022-08-12T03:13:37-07:00
-draft: true
+draft: false
 ---
 # 舊金山行 Day 2
 因為昨天晚上不小心泡了咖啡導致我和王政祺四點才睡，所以直接超晚起來，過了快樂的一天
