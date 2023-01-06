@@ -2,6 +2,7 @@
 title: "San Francisco Day 1"
 author: "Sean Liu"
 date: 2022-08-12T03:13:37-07:00
+categories: ['diary', 'san francisco 2022']
 draft: false
 ---
 # 舊金山行 Day 1
